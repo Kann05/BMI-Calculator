@@ -10,7 +10,6 @@ by entering their weight and height. The calculated BMI value is then displayed 
 Calculate BMI based on user input
 Display calculated BMI value
 Display weight status category based on BMI value</p>
-</br>
 
 <b><h4>How to Use</h4></b>
 <p>
@@ -21,7 +20,6 @@ Click on the "Calculate BMI" button.
 The calculated BMI value will be displayed along with a weight status category.
 To perform another calculation, clear the input fields and repeat steps 2-5.
 </p>
-</br>
 <b><h4>Contributing</h4></b>
 Contributions to the BMI Calculator project are welcome. If you have any suggestions, bug reports, or feature requests, please submit them as GitHub issues.
 </br>
@@ -32,10 +30,8 @@ Create a new branch for your feature or bug fix.
 Make the necessary changes in your branch.
 Test your changes thoroughly.
 Submit a pull request to the main repository, explaining your changes and any relevant information.
-</p>
 </br>
 <b><h4>License</h4></b>
-<br/>
 The BMI Calculator project is licensed under the MIT License.
 
 <h4><b>Acknowledgments</h4></b>
